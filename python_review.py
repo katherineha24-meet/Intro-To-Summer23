@@ -17,6 +17,7 @@ for j in range(len(days_of_the_week)):
 
 highest_temp = 0
 highest_temp_day = 41
+lowest_temp = ""
 lowest_temp_day = ""
 
 for k in range(len(temperatures)):
